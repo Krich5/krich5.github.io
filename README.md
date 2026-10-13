@@ -1,6 +1,6 @@
-# Webex Toolbox
+# KR Studio
 
-Personal GitHub Pages homepage for Kenley Richardson’s Webex and UCCX projects.
+KR Studio’s GitHub Pages homepage for Webex Contact Center and UCCX tools.
 
 Live site: https://krich5.github.io/
 
